@@ -1,4 +1,4 @@
-# **ASP2_DZ2 – Algorithm and Data Structures 2: Efficient Data Retrieval from Multiple Database Tables**
+# **ASP2_DZ2 – Algorithms and Data Structures 2: Efficient Data Retrieval from Multiple Database Tables**
 
 ## **Project Description**
 
